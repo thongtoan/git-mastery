@@ -1,0 +1,1 @@
+console.log("Kiểm tra sự khác biệt khi dùng push origin branch và dùng push -u origin branch. Điểm khác biệt là có tracking lại giữa branch local và remote, lần sau chỉ việc dùng git push và pull");
